@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugas7</string>
+    <string name="title" >Judul</string>
+    <string name="description" >Description</string>
+    <string name="write_your_review_here" >Review</string>
+    <string name="review" >Write yout review here</string>
+    <string name="send" >Kirim</string>
+</resources>
